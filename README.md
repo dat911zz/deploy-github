@@ -1,2 +1,2 @@
 ﻿# deploy-github
-https://dat911zz1.github.io/deploy-github/TestPage.html
+https://dat911zz1.github.io/deploy-github/
